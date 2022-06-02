@@ -26,7 +26,7 @@
 - Digital transformation for Penang Cultural Inheritors Society, Penang Hokkien Association Youth Section & PGCNY Celebration 2023
 <br><br>
 
-<h3>:four_leaf_clover: I'm currently learning:</h3>
+<h3>:writing_hand: I'm currently learning:</h3>
 
 - Javascript, CSS, HTML for Web Development
 
