@@ -1,19 +1,19 @@
 
-<h1><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="50" height="50" /> About Me </h1>
+<h1><img src="" width="50" height="50" /> About Me </h1>
 
 ### Hi 👋, my name is Boo Siew Khoo also known as Melviin Khoo.
 <br>
 
-:briefcase: I'm currently working as **Technical Marketing Engineer** supporting Marketing team and Product team worldwide in RF measurement field.
+:briefcase: I'm currently working as **Technical Marketing Engineer** supporting the Marketing team and Product team worldwide in RF measurement field.
 <br><br>
 
-:bulb: Founded [Creative Now Enterprise](https://about.cre8tivenow.com) together with friends to help local and international NGOs and SMEs to transform and automate their work digitally with Google Workspace with our free time. We have also attain [Google Partner status](https://cre8tive.page.link/google) in year 2022.
+:bulb: Founded [Creative Now Enterprise](https://about.cre8tivenow.com) together with friends to help local and international NGOs and SMEs to transform and automate their work digitally with Google Workspace in our free time. We have also attained [Google Partner status](https://cre8tive.page.link/google) in year 2022.
 <br><br>
 
 :notebook_with_decorative_cover: Self-learn **Javascript & HTML**, specifically with Google App Script.
 <br><br>
 
-:books: Attended Data Science Certification Program by USM & Data Scienctist course (Basic & Intermediate level) by PSDC.
+:books: Attended Data Science Certification Program by USM & Data Science course (Basic & Intermediate level) by PSDC.
 <br><br>
 
 
@@ -28,11 +28,11 @@
 
 <h3>:writing_hand: I'm currently learning:</h3>
 
-- Javascript, CSS, HTML for Web Development
+- Javascript, CSS, and HTML for Web Development
 
-- Data Science & practise with Kaggle
+- Data Science & practice with Kaggle
 
-:computer: Looking forward to change my field into Data Scientist in the future!
+:computer: I am looking forward to changing my field into a Data Scientist in the future!
 <br><br>
 
 <H2>:handshake: Connect with Me</H2>
