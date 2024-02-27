@@ -4,7 +4,7 @@
 ### Hi 👋, my name is Boo Siew Khoo also known as Melviin Khoo.
 <br>
 
-:briefcase: I'm currently working as **Technical Marketing Engineer** supporting the Marketing team and Product team worldwide in RF measurement field.
+:briefcase: I'm currently working as **Software QA Engineer** and previously a **Technical Marketing Engineer** supporting the Marketing team and Product team worldwide in RF measurement field.
 <br><br>
 
 :bulb: Founded [Creative Now Enterprise](https://about.cre8tivenow.com) together with friends to help local and international NGOs and SMEs to transform and automate their work digitally with Google Workspace in our free time. We have also attained [Google Partner status](https://cre8tive.page.link/google) in year 2022.
@@ -19,9 +19,9 @@
 
 <h3>:four_leaf_clover: Projects that I'm currently working on:</h3>
 
-- [Cre8tive Now] Google Workspace Courses for local
+- [Cre8tive Now] Google Workspace Course for Local
 
-- [Cre8tive Now] Online e-Album
+- [Cre8tive Now] Google App Script and AppSheet Customization
 
 - Digital transformation for Penang Cultural Inheritors Society, Penang Hokkien Association Youth Section & PGCNY Celebration 2023
 <br><br>
@@ -32,7 +32,7 @@
 
 - Data Science & practice with Kaggle
 
-:computer: I am looking forward to changing my field into a Data Scientist in the future!
+:computer: I am looking forward to changing my field into a Digital Transformationist in the future!
 <br><br>
 
 <H2>:handshake: Connect with Me</H2>
