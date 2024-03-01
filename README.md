@@ -1,5 +1,5 @@
 
-<h1><img src="" width="50" height="50" /> About Me </h1>
+<h1>About Me </h1>
 
 ### Hi 👋, my name is Boo Siew Khoo also known as Melviin Khoo.
 <br>
